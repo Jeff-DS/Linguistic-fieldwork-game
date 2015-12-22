@@ -165,8 +165,8 @@ class Luganda(object):
 	phono2 = ["Consider the following: \n"
 				"/n-/\t+\t/-laba/\t-->\t/n̩dába/\n"
 				"What's going on?",
-				"/d/ -> [l] / _a",
 				"/l/ -> [d] / n_",
+				"/d/ -> [l] / _a",
 				"/l/ -> [d] / _n",
 				"/d/ -> [n]"]
 	phono3 = ["Which Optimality Theory constraint would motivate the following "
